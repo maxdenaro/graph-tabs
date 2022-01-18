@@ -1,0 +1,40 @@
+{
+  "name": "graph-tabs",
+  "version": "1.0.0",
+  "description": "Simple JS Library for tabs",
+  "main": "src/graph-tabs.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxdenaro/graph-tabs"
+  },
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack --mode development"
+  },
+  "keywords": [
+    "graph",
+    "tabs"
+  ],
+  "author": "MaxGraph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxdenaro/graph-tabs/issues"
+  },
+  "homepage": "https://github.com/maxdenaro/graph-tabs#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/plugin-transform-object-assign": "^7.16.7",
+    "@babel/preset-env": "^7.16.8",
+    "babel-loader": "^8.2.3",
+    "css-loader": "^6.5.1",
+    "file-loader": "^6.2.0",
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1",
+    "mini-css-extract-plugin": "^0.11.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "style-loader": "^1.2.1"
+  },
+  "browserslist": [
+    "defaults"
+  ]
+}
