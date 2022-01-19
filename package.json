@@ -1,6 +1,6 @@
 {
   "name": "graph-tabs",
-  "version": "1.0.01",
+  "version": "1.0.2",
   "description": "Simple JS Library for tabs",
   "main": "src/graph-tabs.js",
   "repository": {

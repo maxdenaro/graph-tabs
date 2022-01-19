@@ -1,4 +1,4 @@
-# Graph-modal
+# Graph-tabs
 
 Простая и легкая JavaScript-библиотека для табов
 
